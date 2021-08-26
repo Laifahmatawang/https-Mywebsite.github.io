@@ -1,3 +1,3 @@
 # https-Mywebsite.github.io
-# <a href="About Me.html>Click</a>
-# <a href="About Me.html>Click</a>
+# <a href="Home.html">Home</a>
+# <a href="Home.html">Home</a>
